@@ -178,6 +178,11 @@
   width: 80%;   
 }
 
+figure figcaption {
+  border: 1px dotted blue;
+  text-align: center;
+}
+
 body {
   background-image: url(images/leafpPattern.png);
   background-color: #86b300;
